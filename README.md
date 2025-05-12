@@ -26,7 +26,7 @@ Model performance is evaluated using two distinct mathematical reasoning benchma
 - `sft_linear_equation.json`/`sft_gsm8k.json`: SFT model evaluations
 - `grpo_linear_equation.json`/`grpo_gsm8k.json`: GRPO model evaluations
 
-## Model and Fine-tuning
+## Model and Post-Training
 
 The project uses **Qwen2.5-1.5B-Instruct** as the base model, a relatively small LLM with only 1.5 billion parameters. We compare two fine-tuning methods:
 
