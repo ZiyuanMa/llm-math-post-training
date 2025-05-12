@@ -1,5 +1,4 @@
-# Unlocking Mathematical Reasoning in Small Language Models with
-Post-Training
+# Unlocking Mathematical Reasoning in Small Language Models with Post-Training
 
 This project investigates the viability of Reinforcement Learning from Human Feedback (RLHF) on a relatively small-scale model—the Qwen2.5-1.5B-Instruct, which comprises only 1.5 billion parameters—with a focus on enhancing mathematical reasoning tasks. We specifically evaluate Group-based Regularized Policy Optimization (GRPO), an efficient RLHF variant, and compare its performance against standard Supervised Fine-tuning (SFT).
 
